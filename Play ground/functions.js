@@ -5,3 +5,9 @@ function name (name){
     console.log("hey " + name + " kiran loves you a lot");
 }
 name("Astha");
+
+function add(a, b){
+    return a + b
+}
+result = add(5, 6);
+console.log(result);
